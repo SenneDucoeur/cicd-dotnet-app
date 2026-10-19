@@ -19,6 +19,10 @@
 
 
 
+
+
+
+
 - [GuardClauses](https://github.com/ardalis/GuardClauses) - Validation Helper.
 - [Ardalis.Result](https://github.com/ardalis/Result) - A result abstraction that can be mapped to HTTP response codes if needed.
 - [FastEndpoints](https://fast-endpoints.com/) - is a developer friendly alternative to Minimal APIs & MVC.
